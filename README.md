@@ -3,6 +3,8 @@
 
 I created a simple weather application using Flutter and  the Open Weather Map API. 
 
+![Test Image 1](3DTest.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
