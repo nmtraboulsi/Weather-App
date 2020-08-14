@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-# weatherapp
 
-A new Flutter project.
+# Weatherapp
+
+I created a simple weather application using Flutter and  the Open Weather Map API. 
 
 ## Getting Started
 
@@ -15,6 +15,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-# Weather-App
->>>>>>> a3b4cffd833cfde49d86c0708f0df41f88812b43
+
+
